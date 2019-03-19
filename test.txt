@@ -1,2 +1,2 @@
 linea sin conflicto
-linea con conflicto
+linea con hola
