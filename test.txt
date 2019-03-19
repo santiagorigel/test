@@ -1,0 +1,2 @@
+linea sin conflicto
+linea con conflicto
